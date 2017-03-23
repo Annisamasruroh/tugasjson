@@ -1,0 +1,129 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  ,
+  "conditions": 1
+  }
+	}
+		,	"location": {
+		"type":"INTLCITY",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"country_name":"Indonesia",
+		"state":"JT",
+		"city":"Mugassari",
+		"tz_short":"WIB",
+		"tz_long":"Asia/Jakarta",
+		"lat":"-6.98999977",
+		"lon":"110.41999817",
+		"zip":"00000",
+		"magic":"1822",
+		"wmo":"96837",
+		"l":"/q/zmw:00000.1822.96837",
+		"requesturl":"global/stations/96837.html",
+		"wuiurl":"https://www.wunderground.com/global/stations/96837.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"Semarang", "state":"", "country":"Indonesia", "icao":"", "lat":"-6.96666718", "lon":"110.41666412" }
+		,{ "city":"", "state":"", "country":"", "icao":"", "lat":"", "lon":"" }
+		,{ "city":"", "state":"", "country":"", "icao":"", "lat":"", "lon":"" }
+		,{ "city":"", "state":"", "country":"", "icao":"", "lat":"", "lon":"" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		]
+		}
+		}
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Mugassari, Indonesia",
+		"city":"Mugassari",
+		"state":"JT",
+		"state_name":"Indonesia",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"zip":"00000",
+		"magic":"1822",
+		"wmo":"96837",
+		"latitude":"-6.98999977",
+		"longitude":"110.41999817",
+		"elevation":"10.1"
+		},
+		"observation_location": {
+		"full":"Semarang, ",
+		"city":"Semarang",
+		"state":"",
+		"country":"Indonesia",
+		"country_iso3166":"ID",
+		"latitude":"-6.96666718",
+		"longitude":"110.41666412",
+		"elevation":"10 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"WIIS",
+		"observation_time":"Last Updated on March 23, 4:00 PM WIB",
+		"observation_time_rfc822":"Thu, 23 Mar 2017 16:00:00 +0700",
+		"observation_epoch":"1490259600",
+		"local_time_rfc822":"Thu, 23 Mar 2017 16:35:19 +0700",
+		"local_epoch":"1490261719",
+		"local_tz_short":"WIB",
+		"local_tz_long":"Asia/Jakarta",
+		"local_tz_offset":"+0700",
+		"weather":"Mostly Cloudy",
+		"temperature_string":"85 F (30 C)",
+		"temp_f":85,
+		"temp_c":30,
+		"relative_humidity":"69%",
+		"wind_string":"From the North at 9 MPH",
+		"wind_dir":"North",
+		"wind_degrees":0,
+		"wind_mph":9,
+		"wind_gust_mph":0,
+		"wind_kph":15,
+		"wind_gust_kph":0,
+		"pressure_mb":"1007",
+		"pressure_in":"29.74",
+		"pressure_trend":"-",
+		"dewpoint_string":"76 F (25 C)",
+		"dewpoint_f":76,
+		"dewpoint_c":25,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"85 F (30 C)",
+		"feelslike_f":"85",
+		"feelslike_c":"30",
+		"visibility_mi":"5.0",
+		"visibility_km":"8.0",
+		"solarradiation":"--",
+		"UV":"-1","precip_1hr_string":"0.00 in (0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":"0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"mostlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/96837.html",
+		"history_url":"http://www.wunderground.com/history/airport/WIIS/2017/3/23/DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-6.96666718,110.41666412",
+		"nowcast":""
+	}
+}
